@@ -3,15 +3,16 @@
 
 <H2>Installations:</H2>
 <H4>Raylib Libray</H4>
-Download [Raylib](https://www.raylib.com/) for free.
+Download <a href = "https://www.raylib.com/">Raylib</a> for free.
+
 
 <H4>Makefile</H4>
-<p>Using Winget `winget install GnuWin32.Make`. Add the `C:\Program Files (x86)\GnuWin32\bin` to environment variables</p>
-<p>Using Chocolatey `choco install make`</p>
+<p>Using Winget: <pre>winget install GnuWin32.Make</pre> Add <pre>C:\Program Files (x86)\GnuWin32\bin</pre> to environment variables</p>
+<p>Using Chocolatey: <pre>choco install make</pre></p>
 
 
 <H2>How to play:</H2>
-<p>UP - Rotate the tetromino</p>
-<p>DOWN - Move the tetromino down one row</p>
-<p>LEFT - Move Left</p>
+<p>UP - Rotate tetromino </p>
+<p>DOWN - Move tetromino down</p>
+<p>LEFT - Move tetromino Left</p>
 <p>RIGHT - Move tetromino Right</p>
